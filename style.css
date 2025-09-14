@@ -1,0 +1,27 @@
+html, body {
+    height:100%;
+    margin:0;
+    line-height:1.2;
+}
+h1{
+    height:3%;
+    font-size:3vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+hr{
+}
+#intro{
+    margin:0.1vh 1vw;
+    padding:1vh;
+    font-size:3vh;
+    color:Red;
+}
+ #Skills, #Contact {
+     margin:1vh;
+     font-size:3vh;
+ }
+#email{
+    background-color:yellow;
+}
